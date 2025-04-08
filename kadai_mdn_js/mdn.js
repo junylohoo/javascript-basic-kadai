@@ -6,4 +6,4 @@ const day = today.getDate();
 
    
 
-console.log('年: ${year}, 月:${month}, 日: ${day}');
+console.log( `${year}年${month}月${day}日` );
